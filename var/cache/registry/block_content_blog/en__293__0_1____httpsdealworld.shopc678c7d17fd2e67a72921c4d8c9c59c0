@@ -1,0 +1,189 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:1828:"<script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm = context.find('#scroll_list_93');
+
+        var item = 1,
+            // default setting of carousel
+            itemsDesktop = 3,
+            itemsDesktopSmall = 3;
+            itemsTablet = 2;
+
+        if (item > 3) {
+            itemsDesktop = item;
+            itemsDesktopSmall = item - 1;
+            itemsTablet = item - 2;
+        } else if (item == 1) {
+            itemsDesktop = itemsDesktopSmall = itemsTablet = 1;
+        } else {
+            itemsDesktop = item;
+            itemsDesktopSmall = itemsTablet = item - 1;
+        }
+
+                function outsideNav () {
+            if(this.options.items >= this.itemsAmount){
+                $("#owl_outside_nav_93").hide();
+            } else {
+                $("#owl_outside_nav_93").show();
+            }
+        }
+        
+        if (elm.length) {
+            elm.owlCarousel({
+                direction: 'ltr',
+                items: item,
+                itemsDesktop: [1199, itemsDesktop],
+                itemsDesktopSmall: [979, itemsDesktopSmall],
+                itemsTablet: [768, itemsTablet],
+                itemsMobile: [479, 1],
+                                                autoPlay: false,
+                                slideSpeed: 400,
+                stopOnHover: true,
+                                pagination: false,
+                            afterInit: outsideNav,
+                afterUpdate : outsideNav
+            });
+
+              $('#owl_prev_93000').click(function(){
+                elm.trigger('owl.prev');
+              });
+              $('#owl_next_93000').click(function(){
+                elm.trigger('owl.next');
+              });
+
+            
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:5700:"    <div class="ty-mainbox-simple-container clearfix">
+                    <h2 class="ty-mainbox-simple-title">
+                
+                                    Blog
+                                
+
+            </h2>
+                <div class="ty-mainbox-simple-body">
+
+
+    <div class="owl-theme ty-owl-controls">
+        <div class="owl-controls clickable owl-controls-outside" id="owl_outside_nav_93">
+            <div class="owl-buttons">
+                <div id="owl_prev_93000" class="owl-prev"><i class="ty-icon-left-open-thin"></i></div>
+                <div id="owl_next_93000" class="owl-next"><i class="ty-icon-right-open-thin"></i></div>
+            </div>
+        </div>
+    </div>
+
+<div class="ty-mb-l">
+    <div class="ty-blog-recent-posts-scroller">
+        <div id="scroll_list_93" class="owl-carousel ty-scroller-list">
+
+                    <div class="ty-blog-recent-posts-scroller__item">
+
+                <div class="ty-blog-recent-posts-scroller__img-block">
+                    <a href="https://dealworld.shop/index.php?dispatch=pages.view&amp;page_id=47">
+                        <span class="ty-no-image" style="height: px; width: px; "><i class="ty-no-image__icon ty-icon-image" title="No image"></i></span>
+
+                    </a>
+                </div>
+
+                <a href="https://dealworld.shop/index.php?dispatch=pages.view&amp;page_id=47">New arrivals of Nintendo Wii games!</a>
+
+                <div class="ty-blog__date">10/18/2020</div>
+
+            </div>
+                    <div class="ty-blog-recent-posts-scroller__item">
+
+                <div class="ty-blog-recent-posts-scroller__img-block">
+                    <a href="https://dealworld.shop/index.php?dispatch=pages.view&amp;page_id=46">
+                        <span class="ty-no-image" style="height: px; width: px; "><i class="ty-no-image__icon ty-icon-image" title="No image"></i></span>
+
+                    </a>
+                </div>
+
+                <a href="https://dealworld.shop/index.php?dispatch=pages.view&amp;page_id=46">Only in our store! Famous American WeatherMaster tents!</a>
+
+                <div class="ty-blog__date">10/16/2020</div>
+
+            </div>
+                    <div class="ty-blog-recent-posts-scroller__item">
+
+                <div class="ty-blog-recent-posts-scroller__img-block">
+                    <a href="https://dealworld.shop/index.php?dispatch=pages.view&amp;page_id=45">
+                        <span class="ty-no-image" style="height: px; width: px; "><i class="ty-no-image__icon ty-icon-image" title="No image"></i></span>
+
+                    </a>
+                </div>
+
+                <a href="https://dealworld.shop/index.php?dispatch=pages.view&amp;page_id=45">Looking for a keypad Nokia phone and can&#039;t find one? We still have them!</a>
+
+                <div class="ty-blog__date">10/15/2020</div>
+
+            </div>
+                    <div class="ty-blog-recent-posts-scroller__item">
+
+                <div class="ty-blog-recent-posts-scroller__img-block">
+                    <a href="https://dealworld.shop/index.php?dispatch=pages.view&amp;page_id=44">
+                        <span class="ty-no-image" style="height: px; width: px; "><i class="ty-no-image__icon ty-icon-image" title="No image"></i></span>
+
+                    </a>
+                </div>
+
+                <a href="https://dealworld.shop/index.php?dispatch=pages.view&amp;page_id=44">We got the best tracks of legendary B.B.King.</a>
+
+                <div class="ty-blog__date">10/15/2020</div>
+
+            </div>
+                    <div class="ty-blog-recent-posts-scroller__item">
+
+                <div class="ty-blog-recent-posts-scroller__img-block">
+                    <a href="https://dealworld.shop/index.php?dispatch=pages.view&amp;page_id=43">
+                        <span class="ty-no-image" style="height: px; width: px; "><i class="ty-no-image__icon ty-icon-image" title="No image"></i></span>
+
+                    </a>
+                </div>
+
+                <a href="https://dealworld.shop/index.php?dispatch=pages.view&amp;page_id=43">True American classic! Drifter cruisers.</a>
+
+                <div class="ty-blog__date">10/14/2020</div>
+
+            </div>
+                    <div class="ty-blog-recent-posts-scroller__item">
+
+                <div class="ty-blog-recent-posts-scroller__img-block">
+                    <a href="https://dealworld.shop/index.php?dispatch=pages.view&amp;page_id=42">
+                        <span class="ty-no-image" style="height: px; width: px; "><i class="ty-no-image__icon ty-icon-image" title="No image"></i></span>
+
+                    </a>
+                </div>
+
+                <a href="https://dealworld.shop/index.php?dispatch=pages.view&amp;page_id=42">Afraid of zombies? Preparing for apocalypse?</a>
+
+                <div class="ty-blog__date">10/14/2020</div>
+
+            </div>
+                    <div class="ty-blog-recent-posts-scroller__item">
+
+                <div class="ty-blog-recent-posts-scroller__img-block">
+                    <a href="https://dealworld.shop/index.php?dispatch=pages.view&amp;page_id=41">
+                        <span class="ty-no-image" style="height: px; width: px; "><i class="ty-no-image__icon ty-icon-image" title="No image"></i></span>
+
+                    </a>
+                </div>
+
+                <a href="https://dealworld.shop/index.php?dispatch=pages.view&amp;page_id=41">For those who love sound quality we have awesome Pioneer speakers!</a>
+
+                <div class="ty-blog__date">10/13/2020</div>
+
+            </div>
+        
+        </div>
+    </div>
+</div>
+
+
+<!-- Inline script moved to the bottom of the page -->
+
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

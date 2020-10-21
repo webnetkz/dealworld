@@ -1,0 +1,697 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:225:"<script type="text/javascript" src="https://dealworld.shop/js/tygh/exceptions.js?ver=1603204718" ></script><script type="text/javascript" src="https://dealworld.shop/js/tygh/product_image_gallery.js?ver=1603204718" ></script>";s:7:"content";s:34557:"    <div class="ty-mainbox-container clearfix  cm-warehouse-block-depends-by-location">
+                    
+                <h1 class="ty-mainbox-title">
+                    
+                                            <span >Женская одежда</span>
+                                        
+
+                </h1>
+            
+    
+                <div class="ty-mainbox-body">
+<div id="category_products_12">
+
+
+
+
+
+
+
+    
+    
+
+    <!-- Inline script moved to the bottom of the page -->
+    
+
+            
+    <div class="ty-pagination-container cm-pagination-container" id="pagination_contents">
+
+    
+    
+
+    
+    
+            <div class="ty-sort-container">
+    
+
+    
+<div class="ty-sort-container__views-icons">
+                <a class="ty-sort-container__views-a cm-ajax active" data-ca-target-id="pagination_contents" href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225&amp;sort_by=product&amp;sort_order=desc&amp;layout=products_multicolumns" rel="nofollow">
+    <i class="ty-icon-products-multicolumns"></i>
+</a>
+                <a class="ty-sort-container__views-a cm-ajax " data-ca-target-id="pagination_contents" href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225&amp;sort_by=product&amp;sort_order=asc&amp;layout=products_without_options" rel="nofollow">
+    <i class="ty-icon-products-without-options"></i>
+</a>
+                <a class="ty-sort-container__views-a cm-ajax " data-ca-target-id="pagination_contents" href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225&amp;sort_by=product&amp;sort_order=asc&amp;layout=short_list" rel="nofollow">
+    <i class="ty-icon-short-list"></i>
+</a>
+</div>
+
+    <div class="ty-sort-dropdown">
+    <a id="sw_elm_sort_fields" class="ty-sort-dropdown__wrapper cm-combination">Сортировать по алфавиту: от А до Я<i class="ty-sort-dropdown__icon ty-icon-down-micro"></i></a>
+    <ul id="elm_sort_fields" class="ty-sort-dropdown__content cm-popup-box hidden">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="sort-by-timestamp-asc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225&amp;sort_by=timestamp&amp;sort_order=asc" rel="nofollow">Сортировать по времени: новинки ниже</a>
+                    </li>
+                                                                                                                                                <li class="sort-by-timestamp-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225&amp;sort_by=timestamp&amp;sort_order=desc" rel="nofollow">Сортировать по времени: новинки выше</a>
+                    </li>
+                                                                                                                                                                                                                                                <li class="sort-by-position-asc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225&amp;sort_by=position&amp;sort_order=asc" rel="nofollow">Сортировать по позиции: низкие позиции выше</a>
+                    </li>
+                                                                                                                                                <li class="sort-by-position-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225&amp;sort_by=position&amp;sort_order=desc" rel="nofollow">Сортировать по позиции: высокие позиции выше</a>
+                    </li>
+                                                                                                                                                                                                                                        <li class="sort-by-product-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225&amp;sort_by=product&amp;sort_order=desc" rel="nofollow">Сортировать по алфавиту: от Я до А</a>
+                    </li>
+                                                                                                                                                                                                                                                <li class="sort-by-price-asc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225&amp;sort_by=price&amp;sort_order=asc" rel="nofollow">Сортировать по цене: дешевые выше</a>
+                    </li>
+                                                                                                                                                <li class="sort-by-price-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225&amp;sort_by=price&amp;sort_order=desc" rel="nofollow">Сортировать по цене: дорогие выше</a>
+                    </li>
+                                                                                                                                                                                                                                                <li class="sort-by-popularity-asc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225&amp;sort_by=popularity&amp;sort_order=asc" rel="nofollow">Сортировать по популярности: менее популярные выше</a>
+                    </li>
+                                                                                                                                                <li class="sort-by-popularity-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225&amp;sort_by=popularity&amp;sort_order=desc" rel="nofollow">Сортировать по популярности: по убыванию</a>
+                    </li>
+                                                                                                                                                                                                                                                <li class="sort-by-bestsellers-asc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225&amp;sort_by=bestsellers&amp;sort_order=asc" rel="nofollow">Сортировать по покупаемости: Наименее покупаемые в начале</a>
+                    </li>
+                                                                                                                                                <li class="sort-by-bestsellers-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225&amp;sort_by=bestsellers&amp;sort_order=desc" rel="nofollow">Сортировать по покупаемости</a>
+                    </li>
+                                                                                                                                                                                                                                                <li class="sort-by-on_sale-asc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225&amp;sort_by=on_sale&amp;sort_order=asc" rel="nofollow">Сортировать по размеру скидки: высокие скидки в конце</a>
+                    </li>
+                                                                                                                                                <li class="sort-by-on_sale-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225&amp;sort_by=on_sale&amp;sort_order=desc" rel="nofollow">Сортировать по размеру скидки: высокие скидки в начале</a>
+                    </li>
+                                                            </ul>
+</div>
+
+
+<div class="ty-sort-dropdown">
+<a id="sw_elm_pagination_steps" class="ty-sort-dropdown__wrapper cm-combination">12 На страницу<i class="ty-sort-dropdown__icon ty-icon-down-micro"></i></a>
+    <ul id="elm_pagination_steps" class="ty-sort-dropdown__content cm-popup-box hidden">
+                                            <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225&amp;items_per_page=24" data-ca-target-id="pagination_contents" rel="nofollow">24 На страницу</a>
+            </li>
+                                    <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225&amp;items_per_page=48" data-ca-target-id="pagination_contents" rel="nofollow">48 На страницу</a>
+            </li>
+                                    <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225&amp;items_per_page=96" data-ca-target-id="pagination_contents" rel="nofollow">96 На страницу</a>
+            </li>
+                    </ul>
+</div>
+</div>
+    
+            
+    
+    
+    
+    
+    <!-- Inline script moved to the bottom of the page -->
+
+                    <div class="grid-list">
+        <div class="ty-column3">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://dealworld.shop/index.php" method="post" name="product_form_28" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=225" />
+<input type="hidden" name="product_data[28][product_id]" value="28" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_28">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://dealworld.shop/index.php?dispatch=products.view&amp;product_id=28">
+                        <img class="ty-pict     cm-image" id="det_img_28"  src="https://dealworld.shop/images/thumbnails/150/150/detailed/0/X35533_01.jpg"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/300/300/detailed/0/X35533_01.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://dealworld.shop/index.php?dispatch=products.view&amp;product_id=28">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/150/150/detailed/0/X35533_02.jpg"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/300/300/detailed/0/X35533_02.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://dealworld.shop/index.php?dispatch=products.view&amp;product_id=28" class="product-title" title="Брюки 7/8 Run Perf 7/8 Ti" >Брюки 7/8 Run Perf 7/8 Ti</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-28" id="old_price_update_28">
+            
+                        
+
+        <!--old_price_update_28--></span>
+        <span class="cm-reload-28 ty-price-update" id="price_update_28">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_28"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_28" class="ty-price-num">4,000.00</span></bdi></span>
+                            
+
+                        <!--price_update_28--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="28" data-ca-target-id="product_quick_view" href="https://dealworld.shop/index.php?dispatch=products.quick_view&amp;product_id=28&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D225&amp;n_items=28%2C34%2C38%2C31%2C41%2C27" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="5a9bd80ea2e0306574442ee7b7475446" /></form>
+</div></div><div class="ty-column3">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://dealworld.shop/index.php" method="post" name="product_form_34" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=225" />
+<input type="hidden" name="product_data[34][product_id]" value="34" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_34">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://dealworld.shop/index.php?dispatch=products.view&amp;product_id=34">
+                        <img class="ty-pict     cm-image" id="det_img_34"  src="https://dealworld.shop/images/thumbnails/150/150/detailed/0/451160_063_A.jpg"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/300/300/detailed/0/451160_063_A.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://dealworld.shop/index.php?dispatch=products.view&amp;product_id=34">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/150/150/detailed/0/451160_063_B.jpg"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/300/300/detailed/0/451160_063_B.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://dealworld.shop/index.php?dispatch=products.view&amp;product_id=34" class="product-title" title="Женская майка Nike &quot;Untouchable&quot;" >Женская майка Nike "Untouchable"</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-34" id="old_price_update_34">
+            
+                        
+
+        <!--old_price_update_34--></span>
+        <span class="cm-reload-34 ty-price-update" id="price_update_34">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_34"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_34" class="ty-price-num">1,000.00</span></bdi></span>
+                            
+
+                        <!--price_update_34--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="34" data-ca-target-id="product_quick_view" href="https://dealworld.shop/index.php?dispatch=products.quick_view&amp;product_id=34&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D225&amp;n_items=28%2C34%2C38%2C31%2C41%2C27" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="5a9bd80ea2e0306574442ee7b7475446" /></form>
+</div></div><div class="ty-column3">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://dealworld.shop/index.php" method="post" name="product_form_38" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=225" />
+<input type="hidden" name="product_data[38][product_id]" value="38" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_38">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://dealworld.shop/index.php?dispatch=products.view&amp;product_id=38">
+                        <img class="ty-pict     cm-image" id="det_img_38"  src="https://dealworld.shop/images/thumbnails/150/150/detailed/0/437394_010_A.jpg"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/300/300/detailed/0/437394_010_A.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://dealworld.shop/index.php?dispatch=products.view&amp;product_id=38">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/150/150/detailed/0/437394_010_B.jpg"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/300/300/detailed/0/437394_010_B.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://dealworld.shop/index.php?dispatch=products.view&amp;product_id=38" class="product-title" title="Женская футболка Nike Futura Unravel" >Женская футболка Nike Futura Unravel</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-38" id="old_price_update_38">
+            
+                        
+
+        <!--old_price_update_38--></span>
+        <span class="cm-reload-38 ty-price-update" id="price_update_38">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_38"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_38" class="ty-price-num">678.80</span></bdi></span>
+                            
+
+                        <!--price_update_38--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="38" data-ca-target-id="product_quick_view" href="https://dealworld.shop/index.php?dispatch=products.quick_view&amp;product_id=38&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D225&amp;n_items=28%2C34%2C38%2C31%2C41%2C27" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="5a9bd80ea2e0306574442ee7b7475446" /></form>
+</div></div><div class="ty-column3">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://dealworld.shop/index.php" method="post" name="product_form_31" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=225" />
+<input type="hidden" name="product_data[31][product_id]" value="31" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_31">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://dealworld.shop/index.php?dispatch=products.view&amp;product_id=31">
+                        <img class="ty-pict     cm-image" id="det_img_31"  src="https://dealworld.shop/images/thumbnails/150/150/detailed/0/450676_063_A.jpg"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/300/300/detailed/0/450676_063_A.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://dealworld.shop/index.php?dispatch=products.view&amp;product_id=31">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/150/150/detailed/0/450676_063_B.jpg"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/300/300/detailed/0/450676_063_B.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://dealworld.shop/index.php?dispatch=products.view&amp;product_id=31" class="product-title" title="Классические женские шорты из джерси Nike" >Классические женские шорты из джерси Nike</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-31" id="old_price_update_31">
+            
+                        
+
+        <!--old_price_update_31--></span>
+        <span class="cm-reload-31 ty-price-update" id="price_update_31">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_31"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_31" class="ty-price-num">1,280.00</span></bdi></span>
+                            
+
+                        <!--price_update_31--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="31" data-ca-target-id="product_quick_view" href="https://dealworld.shop/index.php?dispatch=products.quick_view&amp;product_id=31&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D225&amp;n_items=28%2C34%2C38%2C31%2C41%2C27" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="5a9bd80ea2e0306574442ee7b7475446" /></form>
+</div></div><div class="ty-column3">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://dealworld.shop/index.php" method="post" name="product_form_41" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=225" />
+<input type="hidden" name="product_data[41][product_id]" value="41" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_41">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://dealworld.shop/index.php?dispatch=products.view&amp;product_id=41">
+                        <img class="ty-pict     cm-image" id="det_img_41"  src="https://dealworld.shop/images/thumbnails/150/150/detailed/0/X32679_01.jpg"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/300/300/detailed/0/X32679_01.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://dealworld.shop/index.php?dispatch=products.view&amp;product_id=41">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/150/150/detailed/0/X32679_02.jpg"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/300/300/detailed/0/X32679_02.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://dealworld.shop/index.php?dispatch=products.view&amp;product_id=41" class="product-title" title="Подарочный набор: ползунки+носочки" >Подарочный набор: ползунки+носочки</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-41" id="old_price_update_41">
+            
+                        
+
+        <!--old_price_update_41--></span>
+        <span class="cm-reload-41 ty-price-update" id="price_update_41">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_41"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_41" class="ty-price-num">1,400.00</span></bdi></span>
+                            
+
+                        <!--price_update_41--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="41" data-ca-target-id="product_quick_view" href="https://dealworld.shop/index.php?dispatch=products.quick_view&amp;product_id=41&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D225&amp;n_items=28%2C34%2C38%2C31%2C41%2C27" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="5a9bd80ea2e0306574442ee7b7475446" /></form>
+</div></div><div class="ty-column3">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://dealworld.shop/index.php" method="post" name="product_form_27" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=225" />
+<input type="hidden" name="product_data[27][product_id]" value="27" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_27">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://dealworld.shop/index.php?dispatch=products.view&amp;product_id=27">
+                        <img class="ty-pict     cm-image" id="det_img_27"  src="https://dealworld.shop/images/thumbnails/150/150/detailed/0/V31582_01.jpg"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/300/300/detailed/0/V31582_01.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://dealworld.shop/index.php?dispatch=products.view&amp;product_id=27">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/150/150/detailed/0/V31582_02.jpg"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/300/300/detailed/0/V31582_02.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://dealworld.shop/index.php?dispatch=products.view&amp;product_id=27" class="product-title" title="Худи Trefoil Logo" >Худи Trefoil Logo</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-27" id="old_price_update_27">
+            
+                        
+
+        <!--old_price_update_27--></span>
+        <span class="cm-reload-27 ty-price-update" id="price_update_27">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_27"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_27" class="ty-price-num">2,200.00</span></bdi></span>
+                            
+
+                        <!--price_update_27--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="27" data-ca-target-id="product_quick_view" href="https://dealworld.shop/index.php?dispatch=products.quick_view&amp;product_id=27&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D225&amp;n_items=28%2C34%2C38%2C31%2C41%2C27" data-ca-dialog-title="Быстрый просмотр товаров" rel="nofollow">Просмотр</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="5a9bd80ea2e0306574442ee7b7475446" /></form>
+</div></div>    </div>
+
+            
+
+
+    <!--pagination_contents--></div>
+    
+    
+
+
+
+<!--category_products_12--></div>
+
+
+
+
+
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

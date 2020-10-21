@@ -1,0 +1,517 @@
+a:2:{s:4:"data";a:1:{s:7:"content";s:60522:"        
+
+
+    <ul class="ty-menu__items cm-responsive-menu">
+        
+            <li class="ty-menu__item ty-menu__menu-btn visible-phone">
+                <a class="ty-menu__item-link">
+                    <i class="ty-icon-short-list"></i>
+                    <span>Меню</span>
+                </a>
+            </li>
+
+                                            
+                        <li class="ty-menu__item cm-menu-item-responsive">
+                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                            <i class="ty-menu__icon-open ty-icon-down-open"></i>
+                            <i class="ty-menu__icon-hide ty-icon-up-open"></i>
+                        </a>
+                                        <a  href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=166" class="ty-menu__item-link" >
+                        Электроника
+                    </a>
+                
+                                            <div class="ty-menu__submenu" id="topmenu_80_e7c2f294e32b341522301960058ab20c">
+                            
+                                <ul class="ty-menu__submenu-items cm-responsive-menu-submenu">
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=167" class="ty-menu__submenu-link" >Компьютеры</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <i class="ty-menu__icon-open ty-icon-down-open"></i>
+                                                    <i class="ty-menu__icon-hide ty-icon-up-open"></i>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                            
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=168"                                                                        class="ty-menu__submenu-link" >Настольные ПК</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=169"                                                                        class="ty-menu__submenu-link" >Ноутбуки</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=165"                                                                        class="ty-menu__submenu-link" >Планшеты</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=170"                                                                        class="ty-menu__submenu-link" >Мониторы</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=171"                                                                        class="ty-menu__submenu-link" >Сетевое оборудование</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=172"                                                                        class="ty-menu__submenu-link" >Принтеры и сканеры</a>
+                                                            </li>
+                                                                                                                                                                            <li class="ty-menu__submenu-item ty-menu__submenu-alt-link">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=167"
+                                                                   class="ty-menu__submenu-link" >Больше <i class="text-arrow">&rarr;</i></a>
+                                                            </li>
+                                                                                                                
+
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=175" class="ty-menu__submenu-link" >Автоэлектроника</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <i class="ty-menu__icon-open ty-icon-down-open"></i>
+                                                    <i class="ty-menu__icon-hide ty-icon-up-open"></i>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                            
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=176"                                                                        class="ty-menu__submenu-link" >GPS навигаторы</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=185"                                                                        class="ty-menu__submenu-link" >Автомагнитолы</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=186"                                                                        class="ty-menu__submenu-link" >Динамики</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=202"                                                                        class="ty-menu__submenu-link" >Сабвуферы</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=187"                                                                        class="ty-menu__submenu-link" >Усилители</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=188"                                                                        class="ty-menu__submenu-link" >Автотелевизоры и DVD</a>
+                                                            </li>
+                                                                                                                                                                            <li class="ty-menu__submenu-item ty-menu__submenu-alt-link">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=175"
+                                                                   class="ty-menu__submenu-link" >Больше <i class="text-arrow">&rarr;</i></a>
+                                                            </li>
+                                                                                                                
+
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=174" class="ty-menu__submenu-link" >Телевизоры и Видео</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <i class="ty-menu__icon-open ty-icon-down-open"></i>
+                                                    <i class="ty-menu__icon-hide ty-icon-up-open"></i>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                            
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=190"                                                                        class="ty-menu__submenu-link" >LED телевизоры</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=191"                                                                        class="ty-menu__submenu-link" >Плазменные телевизоры</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=193"                                                                        class="ty-menu__submenu-link" >3D телевизоры</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=194"                                                                        class="ty-menu__submenu-link" >DVD и Blu-ray плееры</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=195"                                                                        class="ty-menu__submenu-link" >Домашние кинотеатры</a>
+                                                            </li>
+                                                                                                                                                                        
+
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=234" class="ty-menu__submenu-link" >Телефоны</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <i class="ty-menu__icon-open ty-icon-down-open"></i>
+                                                    <i class="ty-menu__icon-hide ty-icon-up-open"></i>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                            
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=235"                                                                        class="ty-menu__submenu-link" >Apple iPhone</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=236"                                                                        class="ty-menu__submenu-link" >HTC</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=240"                                                                        class="ty-menu__submenu-link" >Motorola</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=238"                                                                        class="ty-menu__submenu-link" >Nokia</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=237"                                                                        class="ty-menu__submenu-link" >Samsung</a>
+                                                            </li>
+                                                                                                                                                                        
+
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=177" class="ty-menu__submenu-link" >MP3 плееры</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <i class="ty-menu__icon-open ty-icon-down-open"></i>
+                                                    <i class="ty-menu__icon-hide ty-icon-up-open"></i>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                            
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=178"                                                                        class="ty-menu__submenu-link" >iPod</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=182"                                                                        class="ty-menu__submenu-link" >Android</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=179"                                                                        class="ty-menu__submenu-link" >MP3 плееры</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=180"                                                                        class="ty-menu__submenu-link" >Аудиосистемы для MP3</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=181"                                                                        class="ty-menu__submenu-link" >Наушники</a>
+                                                            </li>
+                                                                                                                                                                        
+
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=196" class="ty-menu__submenu-link" >Фото видео</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <i class="ty-menu__icon-open ty-icon-down-open"></i>
+                                                    <i class="ty-menu__icon-hide ty-icon-up-open"></i>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                            
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=198"                                                                        class="ty-menu__submenu-link" >Цифровые фотоаппараты</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=197"                                                                        class="ty-menu__submenu-link" >Зеркальные фотоаппараты</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=199"                                                                        class="ty-menu__submenu-link" >Видеокамеры</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=200"                                                                        class="ty-menu__submenu-link" >Объективы</a>
+                                                            </li>
+                                                                                                                                                                        
+
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=254" class="ty-menu__submenu-link" >Игровые приставки</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <i class="ty-menu__icon-open ty-icon-down-open"></i>
+                                                    <i class="ty-menu__icon-hide ty-icon-up-open"></i>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                            
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=260"                                                                        class="ty-menu__submenu-link" >Аксессуары</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=263"                                                                        class="ty-menu__submenu-link" >Приставки</a>
+                                                            </li>
+                                                                                                                                                                        
+
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                                                        </ul>
+                            
+
+                        </div>
+                    
+                            </li>
+                                            
+                        <li class="ty-menu__item cm-menu-item-responsive">
+                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                            <i class="ty-menu__icon-open ty-icon-down-open"></i>
+                            <i class="ty-menu__icon-hide ty-icon-up-open"></i>
+                        </a>
+                                        <a  href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=203" class="ty-menu__item-link" >
+                        Спорт и отдых
+                    </a>
+                
+                                            <div class="ty-menu__submenu" id="topmenu_80_59b635cb3b7b0944c64159670e2f3cd8">
+                            
+                                <ul class="ty-menu__submenu-items cm-responsive-menu-submenu">
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=204" class="ty-menu__submenu-link" >Велосипеды</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <i class="ty-menu__icon-open ty-icon-down-open"></i>
+                                                    <i class="ty-menu__icon-hide ty-icon-up-open"></i>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                            
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=210"                                                                        class="ty-menu__submenu-link" >Комфорт и круизер</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=209"                                                                        class="ty-menu__submenu-link" >Шоссейные велосипеды</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=208"                                                                        class="ty-menu__submenu-link" >Горные велосипеды</a>
+                                                            </li>
+                                                                                                                                                                        
+
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=211" class="ty-menu__submenu-link" >Гольф</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <i class="ty-menu__icon-open ty-icon-down-open"></i>
+                                                    <i class="ty-menu__icon-hide ty-icon-up-open"></i>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                            
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=212"                                                                        class="ty-menu__submenu-link" >Клюшки для гольфа</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=213"                                                                        class="ty-menu__submenu-link" >Шары для гольфа</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=214"                                                                        class="ty-menu__submenu-link" >Сумки для гольфа</a>
+                                                            </li>
+                                                                                                                                                                        
+
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=215" class="ty-menu__submenu-link" >Кемпинг</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <i class="ty-menu__icon-open ty-icon-down-open"></i>
+                                                    <i class="ty-menu__icon-hide ty-icon-up-open"></i>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                            
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=216"                                                                        class="ty-menu__submenu-link" >Рюкзаки</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=217"                                                                        class="ty-menu__submenu-link" >Спальники</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=218"                                                                        class="ty-menu__submenu-link" >Палатки</a>
+                                                            </li>
+                                                                                                                                                                        
+
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                                                        </ul>
+                            
+
+                        </div>
+                    
+                            </li>
+                                            
+                        <li class="ty-menu__item cm-menu-item-responsive">
+                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                            <i class="ty-menu__icon-open ty-icon-down-open"></i>
+                            <i class="ty-menu__icon-hide ty-icon-up-open"></i>
+                        </a>
+                                        <a  href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=223" class="ty-menu__item-link" >
+                        Одежда
+                    </a>
+                
+                                        
+                        <div class="ty-menu__submenu">
+                            <ul class="ty-menu__submenu-items ty-menu__submenu-items-simple cm-responsive-menu-submenu">
+                                
+
+                                                                                                        <li class="ty-menu__submenu-item">
+                                        <a class="ty-menu__submenu-link"  href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=224" >Мужская одежда</a>
+                                    </li>
+                                                                                                        <li class="ty-menu__submenu-item">
+                                        <a class="ty-menu__submenu-link"  href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=225" >Женская одежда</a>
+                                    </li>
+                                                                                                        <li class="ty-menu__submenu-item">
+                                        <a class="ty-menu__submenu-link"  href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=226" >Обувь</a>
+                                    </li>
+                                                                                                        <li class="ty-menu__submenu-item">
+                                        <a class="ty-menu__submenu-link"  href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=227" >Часы и драгоценности</a>
+                                    </li>
+                                                                
+                                
+
+                            </ul>
+                        </div>
+                    
+                            </li>
+                                            
+                        <li class="ty-menu__item cm-menu-item-responsive">
+                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                            <i class="ty-menu__icon-open ty-icon-down-open"></i>
+                            <i class="ty-menu__icon-hide ty-icon-up-open"></i>
+                        </a>
+                                        <a  href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=250" class="ty-menu__item-link" >
+                        Канцелярские товары
+                    </a>
+                
+                                        
+                        <div class="ty-menu__submenu">
+                            <ul class="ty-menu__submenu-items ty-menu__submenu-items-simple cm-responsive-menu-submenu">
+                                
+
+                                                                                                        <li class="ty-menu__submenu-item">
+                                        <a class="ty-menu__submenu-link"  href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=251" >Калькуляторы</a>
+                                    </li>
+                                                                                                        <li class="ty-menu__submenu-item">
+                                        <a class="ty-menu__submenu-link"  href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=252" >Принадлежности на стол</a>
+                                    </li>
+                                                                                                        <li class="ty-menu__submenu-item">
+                                        <a class="ty-menu__submenu-link"  href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=253" >Сейфы</a>
+                                    </li>
+                                                                
+                                
+
+                            </ul>
+                        </div>
+                    
+                            </li>
+                                            
+                        <li class="ty-menu__item cm-menu-item-responsive ty-menu__item-active">
+                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                            <i class="ty-menu__icon-open ty-icon-down-open"></i>
+                            <i class="ty-menu__icon-hide ty-icon-up-open"></i>
+                        </a>
+                                        <a  href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=264" class="ty-menu__item-link" >
+                        Мультимедиа
+                    </a>
+                
+                                            <div class="ty-menu__submenu" id="topmenu_80_160bb892e4daf1c614e68e80f19fddab">
+                            
+                                <ul class="ty-menu__submenu-items cm-responsive-menu-submenu">
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=228" class="ty-menu__submenu-link" >Музыка</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <i class="ty-menu__icon-open ty-icon-down-open"></i>
+                                                    <i class="ty-menu__icon-hide ty-icon-up-open"></i>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                            
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=229"                                                                        class="ty-menu__submenu-link" >Блюз</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=230"                                                                        class="ty-menu__submenu-link" >Классическая музыка</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=231"                                                                        class="ty-menu__submenu-link" >Джаз</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=232"                                                                        class="ty-menu__submenu-link" >Рок</a>
+                                                            </li>
+                                                                                                                                                                        
+
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header ty-menu__submenu-item-header-active">
+                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=241" class="ty-menu__submenu-link" >Фильмы</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <i class="ty-menu__icon-open ty-icon-down-open"></i>
+                                                    <i class="ty-menu__icon-hide ty-icon-up-open"></i>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                            
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=242"                                                                        class="ty-menu__submenu-link" >Blu-ray диски</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item ty-menu__submenu-item-active">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=243"                                                                        class="ty-menu__submenu-link" >Видео фильмы (DVD)</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=244"                                                                        class="ty-menu__submenu-link" >Сериалы (DVD)</a>
+                                                            </li>
+                                                                                                                                                                        
+
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                            <li class="ty-top-mine__submenu-col">
+                                                                                        <div class="ty-menu__submenu-item-header">
+                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=245" class="ty-menu__submenu-link" >Видеоигры</a>
+                                            </div>
+                                                                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                                                    <i class="ty-menu__icon-open ty-icon-down-open"></i>
+                                                    <i class="ty-menu__icon-hide ty-icon-up-open"></i>
+                                                </a>
+                                                                                        <div class="ty-menu__submenu">
+                                                <ul class="ty-menu__submenu-list cm-responsive-menu-submenu">
+                                                                                                            
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=246"                                                                        class="ty-menu__submenu-link" >Nintendo Wii</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=247"                                                                        class="ty-menu__submenu-link" >PlayStation 3</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=249"                                                                        class="ty-menu__submenu-link" >PlayStation Vita</a>
+                                                            </li>
+                                                                                                                                                                                <li class="ty-menu__submenu-item">
+                                                                <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=248"                                                                        class="ty-menu__submenu-link" >Xbox 360</a>
+                                                            </li>
+                                                                                                                                                                        
+
+                                                                                                    </ul>
+                                            </div>
+                                        </li>
+                                                                                                        </ul>
+                            
+
+                        </div>
+                    
+                            </li>
+        
+        
+
+    </ul>
+
+
+
+    ";}s:6:"expiry";i:0;}

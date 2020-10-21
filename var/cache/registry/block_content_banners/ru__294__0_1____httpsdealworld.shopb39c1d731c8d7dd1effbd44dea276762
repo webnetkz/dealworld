@@ -1,0 +1,46 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:648:"<script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var slider = context.find('#banner_slider_148');
+        if (slider.length) {
+            slider.owlCarousel({
+                direction: 'ltr',
+                items: 1,
+                singleItem : true,
+                slideSpeed: 400,
+                autoPlay: '333000',
+                stopOnHover: true,
+                                                                    pagination: true,
+                    paginationNumbers: true
+                                            });
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:1960:"            <div class="homepage-banners ">
+        
+    <div id="banner_slider_148" class="banners owl-carousel">
+                    <div class="ty-banner__image-item">
+                                    <a class="banner__link" href="https://dealworld.shop/index.php?dispatch=products.final_sale" >                        <img class="ty-pict  ty-banner__image   cm-image" id="det_img_1393452561"  src="https://dealworld.shop/images/promo/1/banner-ru-sale-40-80.png"  alt="" title=""/>
+
+
+                    </a>                            </div>
+                    <div class="ty-banner__image-item">
+                                    <a class="banner__link" href="https://dealworld.shop/index.php?dispatch=products.view&amp;product_id=248" >                        <img class="ty-pict  ty-banner__image   cm-image" id="det_img_2015155764"  src="https://dealworld.shop/images/promo/1/banner-ru-xbox360.png"  alt="" title=""/>
+
+
+                    </a>                            </div>
+                    <div class="ty-banner__image-item">
+                                    <a class="banner__link" href="https://dealworld.shop/index.php?dispatch=pages.view&amp;page_id=23" >                        <img class="ty-pict  ty-banner__image   cm-image" id="det_img_1267740726"  src="https://dealworld.shop/images/promo/1/banner-ru-point.png"  alt="" title=""/>
+
+
+                    </a>                            </div>
+                    <div class="ty-banner__image-item">
+                                    <a class="banner__link" href="https://dealworld.shop/index.php?dispatch=pages.view&amp;page_id=19" >                        <img class="ty-pict  ty-banner__image   cm-image" id="det_img_1507591450"  src="https://dealworld.shop/images/promo/1/banner-ru-girl.png"  alt="" title=""/>
+
+
+                    </a>                            </div>
+            </div>
+
+<!-- Inline script moved to the bottom of the page -->
+            </div>
+    ";}s:6:"expiry";i:0;}

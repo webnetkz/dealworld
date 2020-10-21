@@ -1,0 +1,18 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:101:"<script type="text/javascript" src="https://dealworld.shop/js/tygh/tabs.js?ver=1603204718" ></script>";s:7:"content";s:1455:"            <div class=" ty-float-right">
+        <div class="ty-gift-certificate-validate gift-validate">
+    <form name="gift_certificate_verification_form" class="cm-ajax cm-form-dialog-opener cm-dialog-auto-size" data-ca-dialog-title="Проверить и использовать подарочный сертификат" action="https://dealworld.shop/index.php">
+        <input type="hidden" name="result_ids" value="gift_cert_verify" />
+        <h3 class="ty-gift-certificate-validate__title">Проверить и использовать подарочный сертификат</h3>
+        <div class="ty-input-append">
+            <i class="ty-gift-certificate__icon ty-icon-gift"></i><label for="id_verify_code" class="hidden cm-required">Код подарочного сертификата</label><input type="text" name="verify_code" id="id_verify_code" value="Ввести код" class="ty-input-text cm-hint" /><button title="Применить" class="ty-btn-go" type="submit">Применить</button>
+<input type="hidden" name="dispatch" value="gift_certificates.verify" />
+        </div>
+    <input type="hidden" name="security_hash" class="cm-no-hide-input" value="440b0f2ba985de45b76024c2278f55a2" /></form>
+</div>
+
+<div title="Проверка подарочного сертификата" id="gift_cert_verify">
+<!--gift_cert_verify--></div>
+<!-- Inline script moved to the bottom of the page -->
+
+            </div>
+    ";}s:6:"expiry";i:0;}

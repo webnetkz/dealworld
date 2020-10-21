@@ -1,0 +1,290 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:1828:"<script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm = context.find('#scroll_list_94');
+
+        var item = 2,
+            // default setting of carousel
+            itemsDesktop = 3,
+            itemsDesktopSmall = 3;
+            itemsTablet = 2;
+
+        if (item > 3) {
+            itemsDesktop = item;
+            itemsDesktopSmall = item - 1;
+            itemsTablet = item - 2;
+        } else if (item == 1) {
+            itemsDesktop = itemsDesktopSmall = itemsTablet = 1;
+        } else {
+            itemsDesktop = item;
+            itemsDesktopSmall = itemsTablet = item - 1;
+        }
+
+                function outsideNav () {
+            if(this.options.items >= this.itemsAmount){
+                $("#owl_outside_nav_94").hide();
+            } else {
+                $("#owl_outside_nav_94").show();
+            }
+        }
+        
+        if (elm.length) {
+            elm.owlCarousel({
+                direction: 'ltr',
+                items: item,
+                itemsDesktop: [1199, itemsDesktop],
+                itemsDesktopSmall: [979, itemsDesktopSmall],
+                itemsTablet: [768, itemsTablet],
+                itemsMobile: [479, 1],
+                                                autoPlay: false,
+                                slideSpeed: 400,
+                stopOnHover: true,
+                                pagination: false,
+                            afterInit: outsideNav,
+                afterUpdate : outsideNav
+            });
+
+              $('#owl_prev_94000').click(function(){
+                elm.trigger('owl.prev');
+              });
+              $('#owl_next_94000').click(function(){
+                elm.trigger('owl.next');
+              });
+
+            
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:10178:"    <div class="ty-mainbox-simple-container clearfix">
+                    <h2 class="ty-mainbox-simple-title">
+                
+                                    Отзывы
+                                
+
+            </h2>
+                <div class="ty-mainbox-simple-body">
+
+
+
+    <div class="owl-theme ty-owl-controls">
+        <div class="owl-controls clickable owl-controls-outside" id="owl_outside_nav_94">
+            <div class="owl-buttons">
+                <div id="owl_prev_94000" class="owl-prev"><i class="ty-icon-left-open-thin"></i></div>
+                <div id="owl_next_94000" class="owl-next"><i class="ty-icon-right-open-thin"></i></div>
+            </div>
+        </div>
+    </div>
+
+<div class="ty-mb-l">
+    <div class="ty-scroller-discussion-list">
+        <div id="scroll_list_94" class="owl-carousel ty-scroller-list">
+
+                    <div class="ty-discussion-post__content ty-scroller-discussion-list__item">
+                
+                <a href="https://dealworld.shop/index.php?dispatch=discussion.view&amp;thread_id=26&amp;post_id=130#post_130">
+                    <div class="ty-discussion-post " id="post_130">
+
+                                                <div class="ty-discussion-post__message">Я люблю это сайт. Здесь можно найти все. Узнала я о нем уже довольно давно. Частенько заказываю...</div>
+                        
+                        <span class="ty-caret-bottom"><span class="ty-caret-outer"></span><span class="ty-caret-inner"></span></span>
+                    
+                    </div>
+                </a>
+
+                <span class="ty-discussion-post__author">Петрова Анна</span>
+                <span class="ty-discussion-post__date">08/03/2014</span>
+                                    <div class="clearfix ty-discussion-post__rating">
+                            
+<span class="ty-nowrap ty-stars">
+    
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+    
+    
+    </span>
+
+                    </div>
+                                
+
+            </div>
+                    <div class="ty-discussion-post__content ty-scroller-discussion-list__item">
+                
+                <a href="https://dealworld.shop/index.php?dispatch=discussion.view&amp;thread_id=26&amp;post_id=129#post_129">
+                    <div class="ty-discussion-post  ty-discussion-post_even" id="post_129">
+
+                                                <div class="ty-discussion-post__message">Осталась очень довольна качеством обслуживания интернет-магазина, стоимостью и условиями...</div>
+                        
+                        <span class="ty-caret-bottom"><span class="ty-caret-outer"></span><span class="ty-caret-inner"></span></span>
+                    
+                    </div>
+                </a>
+
+                <span class="ty-discussion-post__author">Иванова Мария</span>
+                <span class="ty-discussion-post__date">08/03/2014</span>
+                                    <div class="clearfix ty-discussion-post__rating">
+                            
+<span class="ty-nowrap ty-stars">
+    
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+    
+    
+    </span>
+
+                    </div>
+                                
+
+            </div>
+                    <div class="ty-discussion-post__content ty-scroller-discussion-list__item">
+                
+                <a href="https://dealworld.shop/index.php?dispatch=discussion.view&amp;thread_id=26&amp;post_id=128#post_128">
+                    <div class="ty-discussion-post " id="post_128">
+
+                                                <div class="ty-discussion-post__message">Всегда относился немного предвзято к интернет-магазинам и не особо им доверял, но обратившись в...</div>
+                        
+                        <span class="ty-caret-bottom"><span class="ty-caret-outer"></span><span class="ty-caret-inner"></span></span>
+                    
+                    </div>
+                </a>
+
+                <span class="ty-discussion-post__author">Петров Денис</span>
+                <span class="ty-discussion-post__date">08/03/2014</span>
+                                    <div class="clearfix ty-discussion-post__rating">
+                            
+<span class="ty-nowrap ty-stars">
+    
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+    
+            <i class="ty-stars__icon ty-icon-star-empty"></i>
+    
+    </span>
+
+                    </div>
+                                
+
+            </div>
+                    <div class="ty-discussion-post__content ty-scroller-discussion-list__item">
+                
+                <a href="https://dealworld.shop/index.php?dispatch=discussion.view&amp;thread_id=26&amp;post_id=127#post_127">
+                    <div class="ty-discussion-post  ty-discussion-post_even" id="post_127">
+
+                                                <div class="ty-discussion-post__message">Являюсь активным пользователем данного интернет-магазина.<br />
+<br />
+Интернет-магазин очень порадовал...</div>
+                        
+                        <span class="ty-caret-bottom"><span class="ty-caret-outer"></span><span class="ty-caret-inner"></span></span>
+                    
+                    </div>
+                </a>
+
+                <span class="ty-discussion-post__author">Родионова Ксения</span>
+                <span class="ty-discussion-post__date">08/02/2014</span>
+                                    <div class="clearfix ty-discussion-post__rating">
+                            
+<span class="ty-nowrap ty-stars">
+    
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+    
+    
+    </span>
+
+                    </div>
+                                
+
+            </div>
+                    <div class="ty-discussion-post__content ty-scroller-discussion-list__item">
+                
+                <a href="https://dealworld.shop/index.php?dispatch=discussion.view&amp;thread_id=26&amp;post_id=126#post_126">
+                    <div class="ty-discussion-post " id="post_126">
+
+                                                <div class="ty-discussion-post__message">Удобный каталог.<br />
+<br />
+Оперативная реакция на заказ и оповещение о статусе заказа. Цены приемлемые.</div>
+                        
+                        <span class="ty-caret-bottom"><span class="ty-caret-outer"></span><span class="ty-caret-inner"></span></span>
+                    
+                    </div>
+                </a>
+
+                <span class="ty-discussion-post__author">Михайлова Елена</span>
+                <span class="ty-discussion-post__date">08/02/2014</span>
+                                    <div class="clearfix ty-discussion-post__rating">
+                            
+<span class="ty-nowrap ty-stars">
+    
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+    
+            <i class="ty-stars__icon ty-icon-star-empty"></i>
+    
+    </span>
+
+                    </div>
+                                
+
+            </div>
+                    <div class="ty-discussion-post__content ty-scroller-discussion-list__item">
+                
+                <a href="https://dealworld.shop/index.php?dispatch=discussion.view&amp;thread_id=26&amp;post_id=125#post_125">
+                    <div class="ty-discussion-post  ty-discussion-post_even" id="post_125">
+
+                                                <div class="ty-discussion-post__message">Регулярно делаю покупки в этом магазине, доволен всеми товарами.<br />
+<br />
+Удобный способ заказа, быстрая...</div>
+                        
+                        <span class="ty-caret-bottom"><span class="ty-caret-outer"></span><span class="ty-caret-inner"></span></span>
+                    
+                    </div>
+                </a>
+
+                <span class="ty-discussion-post__author">Маслов Алексей</span>
+                <span class="ty-discussion-post__date">08/01/2014</span>
+                                    <div class="clearfix ty-discussion-post__rating">
+                            
+<span class="ty-nowrap ty-stars">
+    
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+    
+    
+    </span>
+
+                    </div>
+                                
+
+            </div>
+        
+        </div>
+    </div>
+</div>
+
+
+<!-- Inline script moved to the bottom of the page -->
+
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

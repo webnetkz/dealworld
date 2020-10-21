@@ -1,0 +1,175 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:2167:"<script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm = context.find('#scroll_list_92');
+
+        $('.ty-float-left:contains(.ty-scroller-list),.ty-float-right:contains(.ty-scroller-list)').css('width', '100%');
+
+        var item = 7,
+            // default setting of carousel
+            itemsDesktop = 4,
+            itemsDesktopSmall = 3;
+            itemsTablet = 2;
+
+        if (item > 3) {
+            itemsDesktop = item;
+            itemsDesktopSmall = item - 1;
+            itemsTablet = item - 2;
+        } else if (item == 1) {
+            itemsDesktop = itemsDesktopSmall = itemsTablet = 1;
+        } else {
+            itemsDesktop = item;
+            itemsDesktopSmall = itemsTablet = item - 1;
+        }
+
+        var desktop = [1199, itemsDesktop],
+            desktopSmall = [979, itemsDesktopSmall],
+            tablet = [768, itemsTablet],
+            mobile = [479, 1];
+
+                function outsideNav () {
+            if(this.options.items >= this.itemsAmount){
+                $("#owl_outside_nav_92").hide();
+            } else {
+                $("#owl_outside_nav_92").show();
+            }
+        }
+        
+        if (elm.length) {
+            elm.owlCarousel({
+                direction: 'ltr',
+                items: item,
+                itemsDesktop: desktop,
+                itemsDesktopSmall: desktopSmall,
+                itemsTablet: tablet,
+                itemsMobile: mobile,
+                                scrollPerPage: true,
+                                                autoPlay: false,
+                                lazyLoad: true,
+                slideSpeed: 400,
+                stopOnHover: true,
+                                pagination: false,
+                            afterInit: outsideNav,
+                afterUpdate : outsideNav
+            });
+
+              $('#owl_prev_92000').click(function(){
+                elm.trigger('owl.prev');
+              });
+              $('#owl_next_92000').click(function(){
+                elm.trigger('owl.next');
+              });
+
+            
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:7498:"    <div class="ty-mainbox-simple-container clearfix homepage-our-brands">
+                    <h2 class="ty-mainbox-simple-title">
+                
+                                    Бренды
+                                
+
+            </h2>
+                <div class="ty-mainbox-simple-body">
+    <div class="owl-theme ty-owl-controls">
+        <div class="owl-controls clickable owl-controls-outside" id="owl_outside_nav_92">
+            <div class="owl-buttons">
+                <div id="owl_prev_92000" class="owl-prev"><i class="ty-icon-left-open-thin"></i></div>
+                <div id="owl_next_92000" class="owl-next"><i class="ty-icon-right-open-thin"></i></div>
+            </div>
+        </div>
+    </div>
+
+<div id="scroll_list_92" class="owl-carousel">
+                
+            <div class="ty-center">
+                <a href="https://dealworld.shop/index.php?dispatch=product_features.view&amp;variant_id=116">                <img class="ty-pict  ty-grayscale lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/75/75/feature_variant/1/79085903.jpg"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/150/150/feature_variant/1/79085903.jpg 2x"/>
+
+</a>
+            </div>
+                
+            <div class="ty-center">
+                <a href="https://dealworld.shop/index.php?dispatch=product_features.view&amp;variant_id=92">                <img class="ty-pict  ty-grayscale lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/75/75/feature_variant/1/250px-Acer_2011.svg.png"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/150/150/feature_variant/1/250px-Acer_2011.svg.png 2x"/>
+
+</a>
+            </div>
+                
+            <div class="ty-center">
+                <a href="https://dealworld.shop/index.php?dispatch=product_features.view&amp;variant_id=86">                <img class="ty-pict  ty-grayscale lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/75/75/feature_variant/1/Adidas_Logo.svg.png"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/150/150/feature_variant/1/Adidas_Logo.svg.png 2x"/>
+
+</a>
+            </div>
+                
+            <div class="ty-center">
+                <a href="https://dealworld.shop/index.php?dispatch=product_features.view&amp;variant_id=129">                <img class="ty-pict  ty-grayscale lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/75/75/feature_variant/1/aiko_safe_t.gif"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/150/150/feature_variant/1/aiko_safe_t.gif 2x"/>
+
+</a>
+            </div>
+                
+            <div class="ty-center">
+                <a href="https://dealworld.shop/index.php?dispatch=product_features.view&amp;variant_id=91">                <img class="ty-pict  ty-grayscale lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/75/75/feature_variant/1/Apple_logo_black.svg.png"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/150/150/feature_variant/1/Apple_logo_black.svg.png 2x"/>
+
+</a>
+            </div>
+                
+            <div class="ty-center">
+                <a href="https://dealworld.shop/index.php?dispatch=product_features.view&amp;variant_id=120">                <img class="ty-pict  ty-grayscale lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/75/75/feature_variant/1/Arc_system_works.jpg"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/150/150/feature_variant/1/Arc_system_works.jpg 2x"/>
+
+</a>
+            </div>
+                
+            <div class="ty-center">
+                <a href="https://dealworld.shop/index.php?dispatch=product_features.view&amp;variant_id=88">                <img class="ty-pict  ty-grayscale lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/75/75/feature_variant/1/200px-ASUS_Logo.svg.png"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/150/150/feature_variant/1/200px-ASUS_Logo.svg.png 2x"/>
+
+</a>
+            </div>
+                
+            <div class="ty-center">
+                <a href="https://dealworld.shop/index.php?dispatch=product_features.view&amp;variant_id=131">                <img class="ty-pict  ty-grayscale lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/75/75/feature_variant/1/CamelBak_Logo.jpg"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/150/150/feature_variant/1/CamelBak_Logo.jpg 2x"/>
+
+</a>
+            </div>
+                
+            <div class="ty-center">
+                <a href="https://dealworld.shop/index.php?dispatch=product_features.view&amp;variant_id=124">                <img class="ty-pict  ty-grayscale lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/75/75/feature_variant/1/220px-Capcom_logo.svg.png"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/150/150/feature_variant/1/220px-Capcom_logo.svg.png 2x"/>
+
+</a>
+            </div>
+                
+            <div class="ty-center">
+                <a href="https://dealworld.shop/index.php?dispatch=product_features.view&amp;variant_id=125">                <img class="ty-pict  ty-grayscale lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/75/75/feature_variant/1/Casio_logo.svg.png"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/150/150/feature_variant/1/Casio_logo.svg.png 2x"/>
+
+</a>
+            </div>
+                
+            <div class="ty-center">
+                <a href="https://dealworld.shop/index.php?dispatch=product_features.view&amp;variant_id=130">                <img class="ty-pict  ty-grayscale lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/75/75/feature_variant/1/Clevelandgolf_logo.png"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/150/150/feature_variant/1/Clevelandgolf_logo.png 2x"/>
+
+</a>
+            </div>
+                
+            <div class="ty-center">
+                <a href="https://dealworld.shop/index.php?dispatch=product_features.view&amp;variant_id=104">                <img class="ty-pict  ty-grayscale lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/75/75/feature_variant/1/cobra-logo.jpg"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/150/150/feature_variant/1/cobra-logo.jpg 2x"/>
+
+</a>
+            </div>
+                
+            <div class="ty-center">
+                <a href="https://dealworld.shop/index.php?dispatch=product_features.view&amp;variant_id=96">                <img class="ty-pict  ty-grayscale lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/75/75/feature_variant/1/Concordjazzlogo.png"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/150/150/feature_variant/1/Concordjazzlogo.png 2x"/>
+
+</a>
+            </div>
+                
+            <div class="ty-center">
+                <a href="https://dealworld.shop/index.php?dispatch=product_features.view&amp;variant_id=111">                <img class="ty-pict  ty-grayscale lazyOwl  cm-image"   data-src="https://dealworld.shop/images/thumbnails/75/75/feature_variant/1/Creative_Technology_logo.svg.png"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/150/150/feature_variant/1/Creative_Technology_logo.svg.png 2x"/>
+
+</a>
+            </div>
+    </div>
+
+<!-- Inline script moved to the bottom of the page -->
+
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

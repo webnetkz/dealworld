@@ -1,0 +1,44 @@
+a:2:{s:4:"data";a:1:{s:7:"content";s:1924:"            <div class="top-cart-content ty-float-right">
+        
+    <div class="ty-dropdown-box" id="cart_status_134">
+         <div id="sw_dropdown_134" class="ty-dropdown-box__title cm-combination">
+        <a href="https://dealworld.shop/index.php?dispatch=checkout.cart">
+            
+                                    <i class="ty-minicart__icon ty-icon-cart empty"></i>
+                    <span class="ty-minicart-title empty-cart ty-hand">Корзина пуста</span>
+                    <i class="ty-icon-down-micro"></i>
+                            
+
+        </a>
+        </div>
+        <div id="dropdown_134" class="cm-popup-box ty-dropdown-box__content hidden">
+            
+                <div class="cm-cart-content cm-cart-content-thumb cm-cart-content-delete">
+                        <div class="ty-cart-items">
+                                                            <div class="ty-cart-items__empty ty-center">Корзина пуста</div>
+                                                    </div>
+
+                                                <div class="cm-cart-buttons ty-cart-content__buttons buttons-container hidden">
+                            <div class="ty-float-left">
+                                <a href="https://dealworld.shop/index.php?dispatch=checkout.cart" rel="nofollow" class="ty-btn ty-btn__secondary">Корзина</a>
+                            </div>
+                                                        <div class="ty-float-right">
+                                            
+ 
+
+    <a href="https://dealworld.shop/index.php?dispatch=checkout.checkout"  class="ty-btn ty-btn__primary " >Оформить заказ</a>
+
+
+                            </div>
+                                                    </div>
+                        
+                </div>
+            
+
+        </div>
+    <!--cart_status_134--></div>
+
+
+
+            </div>
+    ";}s:6:"expiry";i:0;}

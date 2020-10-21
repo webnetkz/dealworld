@@ -1,0 +1,214 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:247:"<script type="text/javascript" src="https://dealworld.shop/js/tygh/product_filters.js?ver=1603204718" ></script><script type="text/javascript" src="https://dealworld.shop/js/lib/jqueryuitouch/jquery.ui.touch-punch.min.js?ver=1603204718" ></script>";s:7:"content";s:11041:"    <div class="ty-sidebox-important">
+        <h3 class="ty-sidebox-important__title">
+            
+                            <span class="ty-sidebox__title-wrapper">Фильтры товаров</span>
+                        
+
+        </h3>
+        <div class="ty-sidebox-important__body">
+<!-- Inline script moved to the bottom of the page -->
+
+        
+
+<div class="cm-product-filters" data-ca-target-id="product_filters_*,products_search_*,category_products_*,product_features_*,breadcrumbs_*,currencies_*,languages_*,selected_filters_*" data-ca-base-url="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=223" id="product_filters_33">
+<div class="ty-product-filters__wrapper">
+
+    
+                    
+                    
+        
+    <div class="ty-product-filters__block">
+        <div id="sw_content_33_10" class="ty-product-filters__switch cm-combination-filter_33_10 open cm-save-state cm-ss-reverse">
+            <span class="ty-product-filters__title">Бренд</span>
+            <i class="ty-product-filters__switch-down ty-icon-down-open"></i>
+            <i class="ty-product-filters__switch-right ty-icon-up-open"></i>
+        </div>
+
+        
+                            <ul class="ty-product-filters " id="content_33_10">
+
+    
+    
+    
+                
+                        <li class="ty-product-filters__item-more">
+                <ul id="ranges_33_10" style="max-height: 20em;" class="ty-product-filters__variants cm-filter-table" data-ca-input-id="elm_search_33_10" data-ca-clear-id="elm_search_clear_33_10" data-ca-empty-id="elm_search_empty_33_10">
+
+                                            <li class="cm-product-filters-checkbox-container ty-product-filters__group">
+                            <label ><input class="cm-product-filters-checkbox" type="checkbox" name="product_filters[10]" data-ca-filter-id="10" value="86" id="elm_checkbox_33_10_86" >Adidas</label>
+                        </li>
+                                            <li class="cm-product-filters-checkbox-container ty-product-filters__group">
+                            <label ><input class="cm-product-filters-checkbox" type="checkbox" name="product_filters[10]" data-ca-filter-id="10" value="133" id="elm_checkbox_33_10_133" >Montblanc</label>
+                        </li>
+                                            <li class="cm-product-filters-checkbox-container ty-product-filters__group">
+                            <label ><input class="cm-product-filters-checkbox" type="checkbox" name="product_filters[10]" data-ca-filter-id="10" value="87" id="elm_checkbox_33_10_87" >Nike</label>
+                        </li>
+                                            <li class="cm-product-filters-checkbox-container ty-product-filters__group">
+                            <label ><input class="cm-product-filters-checkbox" type="checkbox" name="product_filters[10]" data-ca-filter-id="10" value="134" id="elm_checkbox_33_10_134" >Tissot</label>
+                        </li>
+                                    </ul>
+            </li>
+                <p id="elm_search_empty_33_10" class="ty-product-filters__no-items-found hidden">По этим критериям поиска ничего не найдено</p>
+    </ul>
+
+                    
+
+    </div>
+    
+
+    
+                    
+                    
+        
+    <div class="ty-product-filters__block">
+        <div id="sw_content_33_312" class="ty-product-filters__switch cm-combination-filter_33_312 open cm-save-state cm-ss-reverse">
+            <span class="ty-product-filters__title">Размер</span>
+            <i class="ty-product-filters__switch-down ty-icon-down-open"></i>
+            <i class="ty-product-filters__switch-right ty-icon-up-open"></i>
+        </div>
+
+        
+                            <ul class="ty-product-filters " id="content_33_312">
+
+    
+    
+    
+                
+                        <li class="ty-product-filters__item-more">
+                <ul id="ranges_33_312" style="max-height: 20em;" class="ty-product-filters__variants cm-filter-table" data-ca-input-id="elm_search_33_312" data-ca-clear-id="elm_search_clear_33_312" data-ca-empty-id="elm_search_empty_33_312">
+
+                                            <li class="cm-product-filters-checkbox-container ty-product-filters__group">
+                            <label ><input class="cm-product-filters-checkbox" type="checkbox" name="product_filters[312]" data-ca-filter-id="312" value="1193" id="elm_checkbox_33_312_1193" >S (Маленький)</label>
+                        </li>
+                                            <li class="cm-product-filters-checkbox-container ty-product-filters__group">
+                            <label ><input class="cm-product-filters-checkbox" type="checkbox" name="product_filters[312]" data-ca-filter-id="312" value="1194" id="elm_checkbox_33_312_1194" >L (Большой)</label>
+                        </li>
+                                            <li class="cm-product-filters-checkbox-container ty-product-filters__group">
+                            <label ><input class="cm-product-filters-checkbox" type="checkbox" name="product_filters[312]" data-ca-filter-id="312" value="1195" id="elm_checkbox_33_312_1195" >M (Средний)</label>
+                        </li>
+                                    </ul>
+            </li>
+                <p id="elm_search_empty_33_312" class="ty-product-filters__no-items-found hidden">По этим критериям поиска ничего не найдено</p>
+    </ul>
+
+                    
+
+    </div>
+    
+
+    
+                    
+                    
+        
+    <div class="ty-product-filters__block">
+        <div id="sw_content_33_313" class="ty-product-filters__switch cm-combination-filter_33_313 open cm-save-state cm-ss-reverse">
+            <span class="ty-product-filters__title">Цвет</span>
+            <i class="ty-product-filters__switch-down ty-icon-down-open"></i>
+            <i class="ty-product-filters__switch-right ty-icon-up-open"></i>
+        </div>
+
+        
+                            <ul class="ty-product-filters " id="content_33_313">
+
+    
+    
+    
+                
+                        <li class="ty-product-filters__item-more">
+                <ul id="ranges_33_313" style="max-height: 20em;" class="ty-product-filters__variants cm-filter-table" data-ca-input-id="elm_search_33_313" data-ca-clear-id="elm_search_clear_33_313" data-ca-empty-id="elm_search_empty_33_313">
+
+                                            <li class="cm-product-filters-checkbox-container ty-product-filters__group">
+                            <label ><input class="cm-product-filters-checkbox" type="checkbox" name="product_filters[313]" data-ca-filter-id="313" value="1199" id="elm_checkbox_33_313_1199" >Синий</label>
+                        </li>
+                                            <li class="cm-product-filters-checkbox-container ty-product-filters__group">
+                            <label ><input class="cm-product-filters-checkbox" type="checkbox" name="product_filters[313]" data-ca-filter-id="313" value="1200" id="elm_checkbox_33_313_1200" >Черный</label>
+                        </li>
+                                            <li class="cm-product-filters-checkbox-container ty-product-filters__group">
+                            <label ><input class="cm-product-filters-checkbox" type="checkbox" name="product_filters[313]" data-ca-filter-id="313" value="1201" id="elm_checkbox_33_313_1201" >Белый</label>
+                        </li>
+                                    </ul>
+            </li>
+                <p id="elm_search_empty_33_313" class="ty-product-filters__no-items-found hidden">По этим критериям поиска ничего не найдено</p>
+    </ul>
+
+                    
+
+    </div>
+    
+
+    
+                    
+                    
+        
+    <div class="ty-product-filters__block">
+        <div id="sw_content_33_1" class="ty-product-filters__switch cm-combination-filter_33_1 open cm-save-state cm-ss-reverse">
+            <span class="ty-product-filters__title">Цена</span>
+            <i class="ty-product-filters__switch-down ty-icon-down-open"></i>
+            <i class="ty-product-filters__switch-right ty-icon-up-open"></i>
+        </div>
+
+        
+                                                <!-- Inline script moved to the bottom of the page -->
+
+
+<div id="content_33_1" class="cm-product-filters-checkbox-container ty-price-slider  ">
+    <p class="ty-price-slider__inputs">
+        <bdi class="ty-price-slider__bidi-container">
+            <span class="ty-price-slider__filter-prefix">$</span>
+            <input type="text" class="ty-price-slider__input-text" id="slider_33_1_left" name="left_33_1" value="27" />
+            
+        </bdi>
+        &nbsp;–&nbsp;
+        <bdi class="ty-price-slider__bidi-container">
+            <span class="ty-price-slider__filter-prefix">$</span>
+            <input type="text" class="ty-price-slider__input-text" id="slider_33_1_right" name="right_33_1" value="428000" />
+            
+        </bdi>
+    </p>
+        <div id="slider_33_1" class="ty-range-slider cm-range-slider">
+            <ul class="ty-range-slider__wrapper">
+                <li class="ty-range-slider__item" style="left: 0%;">
+                    <span class="ty-range-slider__num">
+                                                <span>&lrm;$<bdi><span>27</span></bdi></span>
+                                            </span>
+                </li>
+                <li class="ty-range-slider__item" style="left: 100%;">
+                    <span class="ty-range-slider__num">
+                                                <span>&lrm;$<bdi><span>428000</span></bdi></span>
+                                            </span>
+                </li>
+            </ul>
+        </div>
+
+        <input id="elm_checkbox_slider_33_1" data-ca-filter-id="1" class="cm-product-filters-checkbox hidden" type="checkbox" name="product_filters[1]" value=""  />
+
+        
+        <input type="hidden" id="slider_33_1_json" value='{
+            "disabled": false,
+            "min": 27,
+            "max": 428000,
+            "left": 27,
+            "right": 428000,
+            "step": 1,
+            "extra": "USD"
+        }' />
+        
+</div>
+
+                                    
+
+    </div>
+    
+
+
+<div class="ty-product-filters__tools clearfix">
+
+    <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=223" rel="nofollow" class="ty-product-filters__reset-button cm-ajax cm-ajax-full-render cm-history" data-ca-event="ce.filtersinit" data-ca-scroll=".ty-mainbox-title" data-ca-target-id="product_filters_*,products_search_*,category_products_*,product_features_*,breadcrumbs_*,currencies_*,languages_*,selected_filters_*"><i class="ty-product-filters__reset-icon ty-icon-cw"></i> Сбросить</a>
+
+</div>
+
+</div>
+<!--product_filters_33--></div>
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

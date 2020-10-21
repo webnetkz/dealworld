@@ -1,0 +1,633 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:3513:"<script type="text/javascript" src="https://dealworld.shop/js/tygh/exceptions.js?ver=1603204718" ></script><script type="text/javascript" src="https://dealworld.shop/js/tygh/previewers/owl.previewer.js?ver=1603204718" ></script><script type="text/javascript" src="https://dealworld.shop/js/tygh/product_image_gallery.js?ver=1603204718" ></script><script type="text/javascript" class="cm-ajax-force">
+(function(_, $) {
+    $(document).ready(function () {
+        if($(".twitter-share-button").length > 0){
+            if (typeof (twttr) != 'undefined') {
+                twttr.widgets.load();
+            } else {
+                $.getScript('//platform.twitter.com/widgets.js');
+            }
+        }
+    });
+}(Tygh, Tygh.$));
+</script><script class="cm-ajax-force">
+    (function(_, $) {
+        if ($(".fb-like").length > 0) {
+            if (typeof (FB) != 'undefined') {
+                FB.init({ status: true, cookie: true, xfbml: true });
+            } else {
+                $.getScript("//connect.facebook.net/en_US/all.js#xfbml=1&appId=", function () {
+                    FB.init({ status: true, cookie: true, xfbml: true });
+                });
+            }
+        }
+    }(Tygh, Tygh.$));
+</script><script type="text/javascript">
+    (function(d){
+        if (window.PinUtils) {
+            window.PinUtils.build();
+            return;
+        }
+
+        var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');
+        p.type = 'text/javascript';
+        p.async = true;
+        p.src = '//assets.pinterest.com/js/pinit.js';
+        f.parentNode.insertBefore(p, f);
+    }(document));
+</script><script type="text/javascript" src="https://dealworld.shop/js/addons/warehouses/stock_availability.js?ver=1603204718" ></script><script type="text/javascript" src="https://dealworld.shop/js/tygh/tabs.js?ver=1603204718" ></script><script type="text/javascript">
+        (function (w, _, $) {
+            $(document).ready(function () {
+                w.dataLayerYM.push({
+                    "ecommerce": {
+                        "detail": {
+                            "products": [
+                                {
+                                    "id": 110,
+                                    "name": "\u041a\u043e\u0440\u043d\u0438, 30 \u043b\u0435\u0442\u043d\u0435\u0435 \u044e\u0431\u0438\u043b\u0435\u0439\u043d\u043e\u0435 \u0438\u0437\u0434\u0430\u043d\u0438\u0435 (DVD)",
+                                    "price": "639.600000",
+                                    "brand": "Warner Home Video ",
+                                                                                                            "category": "\u041c\u0443\u043b\u044c\u0442\u0438\u043c\u0435\u0434\u0438\u0430\/\u0424\u0438\u043b\u044c\u043c\u044b\/\u0412\u0438\u0434\u0435\u043e \u0444\u0438\u043b\u044c\u043c\u044b (DVD)",
+                                                                    }
+                            ]
+                        }
+                    }
+                });
+            });
+        }(window, Tygh, Tygh.$));
+    </script><script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.formpre_product_form_110', function(frm, elm) {
+        if ($('#warning_110').length) {
+            $.ceNotification('show', {
+                type: 'W', 
+                title: _.tr('warning'), 
+                message: _.tr('cannot_buy')
+            });
+
+            return false;
+        }
+            
+        return true;
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:25062:"            <div class=" cm-warehouse-block-depends-by-location ">
+        
+
+
+
+<!-- Inline script moved to the bottom of the page -->
+
+<div class="ty-product-block ty-product-detail">
+    <div class="ty-product-block__wrapper clearfix">
+    
+                                
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="ty-product-block__img-wrapper" style="width: 280px">
+                
+                                            <div class="ty-product-block__img cm-reload-110" data-ca-previewer="true" id="product_images_110_update">
+
+                                                                            
+            
+
+                            
+    
+    
+    
+<div class="ty-product-img cm-preview-wrapper" id="product_images_1105f8f7727df24c">
+                    <a id="det_img_link_1105f8f7727df24c_511" data-ca-image-id="preview[product_images_1105f8f7727df24c]" class="cm-image-previewer cm-previewer ty-previewer" data-ca-image-width="500" data-ca-image-height="512" href="https://dealworld.shop/images/detailed/0/1565865.jpg" title=""><img class="ty-pict     cm-image" id="det_img_1105f8f7727df24c_511"  src="https://dealworld.shop/images/thumbnails/280/286/detailed/0/1565865.jpg"  alt="" title="" srcset="https://dealworld.shop/images/thumbnails/560/572/detailed/0/1565865.jpg 2x"/><svg class="ty-pict__container" aria-hidden="true" width="280" height="286" viewBox="0 0 280 286" style="max-height: 100%; max-width: 100%; position: absolute; top: 0; left: 50%; transform: translateX(-50%); z-index: -1;"><rect fill="transparent" width="280" height="286"></rect></svg>
+<span class="ty-previewer__icon hidden-phone"></span></a>
+
+
+    </div>
+
+
+
+<!-- Inline script moved to the bottom of the page -->
+<!-- Inline script moved to the bottom of the page -->
+
+
+
+                        <!--product_images_110_update--></div>
+                                    
+
+            </div>
+            <div class="ty-product-block__left">
+                                <form action="https://dealworld.shop/index.php" method="post" name="product_form_110" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=110" />
+<input type="hidden" name="product_data[110][product_id]" value="110" />
+
+
+                
+                                            <h1 class="ty-product-block-title" ><bdi>Корни, 30 летнее юбилейное издание (DVD)</bdi></h1>
+                    
+                    
+                        
+                            <div class="brand">
+                                
+
+    <div class="ty-features-list">    <a href="https://dealworld.shop/index.php?dispatch=categories.view&amp;category_id=243&amp;features_hash=10-119">Warner Home Video </a></div>
+                            </div>
+                        
+
+                    
+
+                
+    <div class="ty-discussion__rating-wrapper" id="average_rating_product">
+            
+                                
+        
+    
+
+    
+
+
+
+                
+    
+            
+            <a id="opener_new_post_main_info_title_110" class="ty-discussion__review-write cm-dialog-opener cm-dialog-auto-size" data-ca-target-id="new_post_dialog_main_info_title_110" rel="nofollow" href="https://dealworld.shop/index.php?dispatch=discussion.get_new_post_form&amp;object_type=P&amp;object_id=110&amp;obj_prefix=main_info_title_&amp;post_redirect_url=index.php%3Fdispatch%3Dproducts.view%26product_id%3D110%26selected_section%3Ddiscussion%23discussion" title="Написать отзыв">Написать отзыв</a>
+    
+
+    <!--average_rating_product--></div>
+
+
+                                                                                
+                
+                                <div class="ty-product-block__note-wrapper">
+                    <div class="ty-product-block__note ty-product-block__note-inner">
+                        <p class="product-promo-text"><span class="product-promo-header">БЕСПЛАТНАЯ доставка на заказ свыше 3000 рублей!</span><span class="product-promo-body">Отправка заказа в течение суток.</span></p>
+                    </div>
+                </div>
+                                
+
+
+                <div class="prices-container price-wrap">
+                                            <div class="ty-product-prices">
+                                        <span class="cm-reload-110" id="old_price_update_110">
+            
+                        
+
+        <!--old_price_update_110--></span>
+                        
+                                            <div class="ty-product-block__price-actual">
+                                <span class="cm-reload-110 ty-price-update" id="price_update_110">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_110"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_110" class="ty-price-num">639.60</span></bdi></span>
+                            
+
+                        <!--price_update_110--></span>
+
+                        </div>
+                    
+                                                    
+                                        <span class="cm-reload-110" id="line_discount_update_110">
+            <input type="hidden" name="appearance[show_price_values]" value="1" />
+            <input type="hidden" name="appearance[show_list_discount]" value="1" />
+                    <!--line_discount_update_110--></span>
+    
+                        </div>
+                                    </div>
+
+                                <div class="ty-product-block__option">
+                                                <div class="cm-reload-110 js-product-options-110" id="product_options_update_110">
+        <input type="hidden" name="appearance[show_product_options]" value="1" />
+        <input type="hidden" name="product_id" value="110" />
+                                                        
+<input type="hidden" name="appearance[details_page]" value="1" />
+    <input type="hidden" name="additional_info[info_type]" value="D" />
+    <input type="hidden" name="additional_info[is_preview]" value="" />
+    <input type="hidden" name="additional_info[get_icon]" value="1" />
+    <input type="hidden" name="additional_info[get_detailed]" value="1" />
+    <input type="hidden" name="additional_info[get_additional]" value="" />
+    <input type="hidden" name="additional_info[get_options]" value="1" />
+    <input type="hidden" name="additional_info[get_discounts]" value="1" />
+    <input type="hidden" name="additional_info[get_features]" value="" />
+    <input type="hidden" name="additional_info[get_extra]" value="" />
+    <input type="hidden" name="additional_info[get_taxed_prices]" value="1" />
+    <input type="hidden" name="additional_info[get_for_one_product]" value="1" />
+    <input type="hidden" name="additional_info[detailed_params]" value="1" />
+    <input type="hidden" name="additional_info[features_display_on]" value="C" />
+    <input type="hidden" name="additional_info[get_active_options]" value="" />
+    <input type="hidden" name="additional_info[get_variation_features_variants]" value="1" />
+    <input type="hidden" name="additional_info[get_warehouse_amount]" value="" />
+    <input type="hidden" name="additional_info[get_warehouse_amount_by_destination]" value="1" />
+    <input type="hidden" name="additional_info[get_warehouse_total_amount]" value="" />
+    <input type="hidden" name="additional_info[get_variation_info]" value="1" />
+    <input type="hidden" name="additional_info[get_variation_name]" value="1" />
+    <input type="hidden" name="additional_info[get_product_type]" value="" />
+    <input type="hidden" name="additional_info[get_vendor_products]" value="" />
+    <input type="hidden" name="additional_info[get_vendor_product_ids]" value="" />
+    <input type="hidden" name="additional_info[runtime_company_id]" value="3" />
+
+
+<!-- Inline script moved to the bottom of the page -->
+
+        
+
+    <!--product_options_update_110--></div>
+    
+                </div>
+                
+                <div class="ty-product-block__advanced-option clearfix">
+                                                                        <div class="cm-reload-110" id="advanced_options_update_110">
+                <div class="ty-control-group product-list-field paypal-adaptive-vendor-name ">
+        <label class="ty-control-group__label">Продавец:</label>
+        <span class="ty-control-group__item"><a href="https://dealworld.shop/index.php?dispatch=companies.products&amp;company_id=3">Мой диск</a></span>
+        
+                    
+        
+    <a title="Задать вопрос" href="https://dealworld.shop/index.php?dispatch=auth.login_form&amp;return_url=index.php%3Fdispatch%3Dproducts.view%26product_id%3D110" data-ca-target-id="new_thread_login_form" class="cm-dialog-opener cm-dialog-auto-size ty-vendor-communication__post-write" rel="nofollow">
+        <i class="ty-icon-chat"></i>
+        Задать вопрос
+    </a>
+
+    
+
+    </div>
+
+            
+            
+<input type="hidden" name="appearance[dont_show_points]" value="" />
+        <div class="ty-reward-group">
+        <span class="ty-control-group__label product-list-field">Цена в баллах:</span>
+        <span class="ty-control-group__item" id="price_in_points_110"><bdi>640 баллов</bdi></span>
+    </div>
+<div class="ty-reward-group product-list-field hidden">
+    <span class="ty-control-group__label">Бонусные баллы:</span>
+    <span class="ty-control-group__item" id="reward_points_110"><bdi> баллов</bdi></span>
+</div>
+
+        <!--advanced_options_update_110--></div>
+    
+                                    </div>
+
+                <div class="ty-product-block__sku">
+                                                    <div class="ty-control-group ty-sku-item cm-hidden-wrapper" id="sku_update_110">
+            <input type="hidden" name="appearance[show_sku]" value="1" />
+                            <label class="ty-control-group__label" id="sku_110">КОД:</label>
+                        <span class="ty-control-group__item cm-reload-110" id="product_code_110">E01105O46P<!--product_code_110--></span>
+        </div>
+    
+                </div>
+
+                                <div class="ty-product-block__field-group">
+                                        
+    <div class="cm-reload-110 stock-wrap" id="product_amount_update_110">
+        <input type="hidden" name="appearance[show_product_amount]" value="1" />
+                                                        <div class="ty-control-group product-list-field">
+                                                    <label class="ty-control-group__label">Доступность:</label>
+                                                <span class="ty-qty-in-stock ty-control-group__item" id="in_stock_info_110">
+                                                            В наличии
+                                                    </span>
+                    </div>
+                                        <!--product_amount_update_110--></div>
+
+
+
+
+                                            
+        <div class="cm-reload-110" id="qty_update_110">
+        <input type="hidden" name="appearance[show_qty]" value="1" />
+        <input type="hidden" name="appearance[capture_options_vs_qty]" value="" />
+                            
+                    <div class="ty-qty clearfix changer" id="qty_110">
+                <label class="ty-control-group__label" for="qty_count_110">Кол-во:</label>                                <div class="ty-center ty-value-changer cm-value-changer">
+                                            <a class="cm-increase ty-value-changer__increase">&#43;</a>
+                                        <input  type="text" size="5" class="ty-value-changer__input cm-amount" id="qty_count_110" name="product_data[110][amount]" value="1" data-ca-min-qty="1" />
+                                            <a class="cm-decrease ty-value-changer__decrease">&minus;</a>
+                                    </div>
+                            </div>
+                            <!--qty_update_110--></div>
+    
+
+
+
+                                            
+            
+
+
+                </div>
+                
+                                    
+
+                
+                                <div class="ty-product-block__button">
+                    
+                                        <div class="cm-reload-110 " id="add_to_cart_update_110">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[show_list_buttons]" value="1" />
+<input type="hidden" name="appearance[but_role]" value="big" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+
+
+                    
+ 
+    <button id="button_cart_110" class="ty-btn__primary ty-btn__big ty-btn__add-to-cart cm-form-dialog-closer ty-btn" type="submit" name="dispatch[checkout.add..110]" >В корзину</button>
+
+
+    
+
+
+
+
+    
+
+    
+
+
+<a id="opener_call_request_110" class="cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__text ty-cr-product-button" href="https://dealworld.shop/index.php?dispatch=call_requests.request&amp;product_id=110&amp;obj_prefix=" data-ca-target-id="content_call_request_110"  data-ca-dialog-title="Купить в один клик" rel="nofollow"><span >Купить в один клик</span></a>
+
+<div class="hidden" id="content_call_request_110" title="Купить в один клик">
+    
+</div>
+
+
+
+    
+            
+    
+ 
+    <a  class="ty-btn ty-btn__tertiary ty-btn-icon ty-add-to-wish cm-submit text-button " id="button_wishlist_110" data-ca-dispatch="dispatch[wishlist.add..110]" title="Отложить"><i class="ty-icon-heart"></i></a>
+
+
+    
+                            
+                                
+        
+ 
+    <a  class="ty-btn ty-btn__tertiary ty-btn-icon ty-add-to-compare cm-ajax cm-ajax-full-render text-button " href="https://dealworld.shop/index.php?dispatch=product_features.add_product&amp;product_id=110&amp;redirect_url=index.php%3Fdispatch%3Dproducts.view%26product_id%3D110" rel="nofollow" data-ca-target-id="comparison_list,account_info*" title="Добавить в список сравнения"><i class="ty-icon-chart-bar"></i></a>
+
+
+
+
+
+<!--add_to_cart_update_110--></div>
+
+
+                                        
+                </div>
+                
+                                <input type="hidden" name="security_hash" class="cm-no-hide-input" value="90b857a90c106b16b4a91fe99ce53de3" /></form>
+
+
+                
+
+                
+    <ul class="ty-social-buttons">
+                        <li class="ty-social-buttons__inline"><a href="https://twitter.com/share" class="twitter-share-button" data-lang="ru" data-size="medium" data-count="horizontal" data-url="https://dealworld.shop/index.php?dispatch=products.view&product_id=110" >Tweet</a>
+<!-- Inline script moved to the bottom of the page -->
+</li>
+                                <li class="ty-social-buttons__inline"><div id="fb-root"></div>
+<div class="fb-like" data-lang="ru" data-layout="button_count" data-href="https://dealworld.shop/index.php?dispatch=products.view&product_id=110" data-send="true" data-show-faces="false" data-action="like" data-font="arial" data-colorscheme="light" data-width="450" ></div>
+<!-- Inline script moved to the bottom of the page -->
+</li>
+                                            <li class="ty-social-buttons__inline"><span class="pinterest__wrapper">
+    <a href="//pinterest.com/pin/create/button/?url=https%3A%2F%2Fdealworld.shop%2Findex.php%3Fdispatch%3Dproducts.view%26product_id%3D110&amp;media=https%3A%2F%2Fdealworld.shop%2Fimages%2Fdetailed%2F0%2F1565865.jpg&amp;description=%D0%94%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B0%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%20%D0%A5%D0%B5%D0%B9%D0%BB%D0%B8%2C%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8F%20%D0%BE%D1%82%20%D0%BF%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%89%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BA%D0%B0%20%D0%9A%D1%83%D0%BD%D1%82%D0%B0%20%D0%9A%D0%B8%D0%BD%D1%82%D0%B0%20%D0%B8%20%D0%B2%D0%BF%D0%BB%D0%BE%D1%82%D1%8C%20%D0%B4%D0%BE%20%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F..." data-pin-do="buttonPin" data-pin-shape="rect" data-pin-height="20" ><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" alt="Pinterest"></a>
+</span>
+<!-- Inline script moved to the bottom of the page -->
+</li>
+                </ul>
+<div data-ca-warehouses-stock-availability-product-id="110"
+     id="warehouses_stock_availability_110">
+    
+    <!--warehouses_stock_availability_110--></div>
+
+<!-- Inline script moved to the bottom of the page -->
+
+
+
+                                
+
+                    
+                            </div>
+        
+    
+            <div id="new_thread_login_form" class="hidden ty-vendor-communication-login" title="Войти">
+    <div class="ty-login-popup">
+        <h3>
+            Войдите в учётную запись, чтобы мы могли сообщить вам об ответе
+        </h3>
+        
+
+    <div id="new_thread_login_form_popup_login_popup_form_container">
+            <form name="new_thread_login_form_popup_form" action="https://dealworld.shop/index.php" method="post" class="cm-ajax cm-ajax-full-render">
+                    <input type="hidden" name="result_ids" value="new_thread_login_form_popup_login_popup_form_container" />
+            <input type="hidden" name="login_block_id" value="new_thread_login_form_popup" />
+            <input type="hidden" name="quick_login" value="1" />
+        
+        <input type="hidden" name="return_url" value="index.php?dispatch=products.view&amp;product_id=110" />
+        <input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=110" />
+
+        
+        <div class="ty-control-group">
+            <label for="login_new_thread_login_form_popup" class="ty-login__filed-label ty-control-group__label cm-required cm-trim cm-email">E-mail</label>
+            <input type="text" id="login_new_thread_login_form_popup" name="user_login" size="30" value="" class="ty-login__input cm-focus" />
+        </div>
+
+        <div class="ty-control-group ty-password-forgot">
+            <label for="psw_new_thread_login_form_popup" class="ty-login__filed-label ty-control-group__label ty-password-forgot__label cm-required">Пароль</label><a href="https://dealworld.shop/index.php?dispatch=auth.recover_password" class="ty-password-forgot__a"  tabindex="5">Забыли пароль?</a>
+            <input type="password" id="psw_new_thread_login_form_popup" name="password" size="30" value="" class="ty-login__input" maxlength="32" />
+        </div>
+
+                    
+            <div class="ty-login-reglink ty-center">
+                <a class="ty-login-reglink__a" href="https://dealworld.shop/index.php?dispatch=profiles.add" rel="nofollow">Создать учетную запись</a>
+            </div>
+        
+        
+
+        
+        
+            <div class="buttons-container clearfix">
+                <div class="ty-float-right">
+                        
+ 
+    <button  class="ty-btn__login ty-btn__secondary ty-btn" type="submit" name="dispatch[auth.login]" >Войти</button>
+
+
+                </div>
+                <div class="ty-login__remember-me">
+                    <label for="remember_me_new_thread_login_form_popup" class="ty-login__remember-me-label"><input class="checkbox" type="checkbox" name="remember_me" id="remember_me_new_thread_login_form_popup" value="Y" />Запомнить</label>
+                </div>
+            </div>
+        
+
+    <input type="hidden" name="security_hash" class="cm-no-hide-input" value="90b857a90c106b16b4a91fe99ce53de3" /></form>
+
+    <!--new_thread_login_form_popup_login_popup_form_container--></div>
+
+    </div>
+</div>
+
+    
+    </div>
+
+    
+            
+            
+
+
+                                    
+
+<!-- Inline script moved to the bottom of the page -->
+<div class="ty-tabs cm-j-tabs clearfix">
+    <ul class="ty-tabs__list" >
+                                                                    <li id="description" class="ty-tabs__item cm-js active"><a class="ty-tabs__a" >Описание</a></li>
+                                                                                            <li id="discussion" class="ty-tabs__item cm-js"><a class="ty-tabs__a" >Отзывы</a></li>
+                                        </ul>
+</div>
+
+<div class="cm-tabs-content ty-tabs__content clearfix" id="tabs_content">
+                            
+            
+            
+            <div id="content_product_tab_10" class="ty-wysiwyg-content content-product_tab_10">
+                                                    
+                            
+            </div>
+                                
+            
+                                        
+            <div id="content_description" class="ty-wysiwyg-content content-description">
+                                                    
+    <div ><p><span style="color: #333333; font-family: Arial, Tahoma, Helvetica, sans-serif; font-size: small;">Драматизация семейной истории автора Алекса Хейли, начиная от порабощения предка Кунта Кинта и вплоть до освобождения его потомков.</span></p></div>
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_features" class="ty-wysiwyg-content content-features">
+                                                    
+
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_files" class="ty-wysiwyg-content content-files">
+                                                    
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_tags" class="ty-wysiwyg-content content-tags">
+                                                    
+    
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_attachments" class="ty-wysiwyg-content content-attachments">
+                                                    
+
+                            
+            </div>
+                                            
+            
+                                        
+            <div id="content_discussion" class="ty-wysiwyg-content content-discussion">
+                                                    
+        <div class="discussion-block" id="content_discussion_block">
+        
+        
+        <div id="posts_list_110">
+                            <p class="ty-no-items">Сообщения не найдены</p>
+                    <!--posts_list_110--></div>
+
+                    
+    
+            
+                
+ 
+
+    <a href="https://dealworld.shop/index.php?dispatch=discussion.get_new_post_form&amp;object_type=P&amp;object_id=110&amp;obj_prefix=&amp;post_redirect_url=index.php%3Fdispatch%3Dproducts.view%26product_id%3D110%26selected_section%3Ddiscussion%23discussion"  class="ty-btn cm-dialog-opener cm-dialog-auto-size ty-btn__primary "  rel="nofollow" data-ca-target-id="new_post_dialog_110" title="Написать отзыв">Написать отзыв</a>
+
+    
+
+        
+                                </div>
+
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_required_products" class="ty-wysiwyg-content content-required_products">
+                                                    
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_availability_in_stores" class="ty-wysiwyg-content content-availability_in_stores">
+                                                    
+                            
+            </div>
+            
+</div>
+
+
+
+                    
+
+    </div>
+
+<div class="product-details">
+</div>
+
+
+
+    <!-- Inline script moved to the bottom of the page -->
+
+            </div>
+    ";}s:6:"expiry";i:0;}
